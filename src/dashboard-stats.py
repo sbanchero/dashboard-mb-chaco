@@ -46,13 +46,7 @@ files_csv = {
 	}
 }
 
-
-
-
-
-
-
-data_dir = "../data/"
+data_dir = "./data/"
 
 st.markdown("# Estadisticas MapBiomas Chaco")
 
@@ -60,7 +54,7 @@ def get_data(f):
 	return pd.read_csv(f"{data_dir}{f}")
 
 with st.sidebar:
-	st.image(image="../images/logo.png", width=200)
+	st.image(image="./images/logo.png", width=200)
 
 	paises = list(files_csv.keys())
 	opt_pais = st.selectbox(
@@ -89,15 +83,5 @@ with st.sidebar:
 
 dfg = df[df["class_name"].isin(mult_opt_class)].groupby(['class_name', "year"], as_index=False)['area'].sum()
 dfg
-
-# ~ df_pivot = pd.pivot_table(
-    # ~ dfg, 
-    # ~ values="area",
-    # ~ index="year",
-    # ~ columns="class_name", 
-    # ~ aggfunc="sum"
-# ~ )
-
-# ~ df_pivot
 
 st.bar_chart(dfg, x="year", y="area", color="class_name", stack=False)
