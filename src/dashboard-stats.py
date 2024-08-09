@@ -45,11 +45,12 @@ files_csv = {
 		"LEVEL_3": "Areas-cover-col5-v2-par-level_3-FINAL_join.csv",
 	}
 }
+st.markdown("# Estadisticas MapBiomas Chaco")
 
+tab1, tab2 = st.tabs(["Áreas", "Diferencias"])
 
 data_dir = "./data/"
 
-st.markdown("# Estadisticas MapBiomas Chaco")
 
 def get_data(f):
 	return pd.read_csv(f"{data_dir}{f}")
@@ -90,14 +91,22 @@ with st.sidebar:
 	)
 
 dfg = df[df["class_name"].isin(mult_opt_class) & df[opt_level].isin(mult_opt_levels)].groupby(['class_name', "year", opt_level], as_index=False)['area'].sum()
-dfg
+with tab1:
+	st.markdown("## Tabla de áreas")
+	dfg
 
-st.bar_chart(dfg, x="year", y="area", color="class_name", stack=False)
+	st.markdown("## Gráfico de áreas")
+	st.bar_chart(dfg, x="year", y="area", color="class_name", stack=False, x_label="Años", y_label="Area (km2)")
 
 dfgs=dfg.sort_values(by=['year'])
 dfgs["dif_area"] = dfgs["area"].diff().fillna(0)
 dfgs["dif_area_porc"] = dfgs["dif_area"]/(dfgs["area"] + dfgs["dif_area"]) * 100
-dfgs
-st.bar_chart(dfgs, x="year", y="dif_area_porc", color="class_name", stack=False)
+
+with tab2:
+	st.markdown("## Tabla de Diferencias")
+	dfgs
+
+	st.markdown("## Gráfico de Diferencias")
+	st.bar_chart(dfgs, x="year", y="dif_area_porc", color="class_name", stack=False, x_label="Años", y_label="Diferencia de área (%)")
 
 
