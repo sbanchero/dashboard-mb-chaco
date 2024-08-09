@@ -93,3 +93,11 @@ dfg = df[df["class_name"].isin(mult_opt_class) & df[opt_level].isin(mult_opt_lev
 dfg
 
 st.bar_chart(dfg, x="year", y="area", color="class_name", stack=False)
+
+dfgs=dfg.sort_values(by=['year'])
+dfgs["dif_area"] = dfgs["area"].diff().fillna(0)
+dfgs["dif_area_porc"] = dfgs["dif_area"]/(dfgs["area"] + dfgs["dif_area"]) * 100
+dfgs
+st.bar_chart(dfgs, x="year", y="dif_area_porc", color="class_name", stack=False)
+
+
