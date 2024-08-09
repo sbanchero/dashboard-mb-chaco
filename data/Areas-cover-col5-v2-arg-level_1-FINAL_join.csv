@@ -1,0 +1,662 @@
+,system:index,area,class_id,class_name,territory,version,year,.geo,LEVEL_0,LEVEL_1
+0,0_0_0,372277.4096808389,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+1,0_0_1,72082.04593868848,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+2,0_0_2,22856.02277572127,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+3,0_0_3,850.6173974682652,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+4,0_0_4,70783.79579939308,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+5,0_0_5,14794.811362244547,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+6,0_0_6,442.6773064613806,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+7,0_0_7,1533.4947545134223,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+8,0_0_8,401.20399366037617,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+9,0_0_9,7575.898587464237,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+10,0_0_10,5107.702215530578,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+11,0_0_11,7143.434531322354,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+12,0_0_12,26761.346065836115,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+13,0_0_13,713.8598871855625,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+14,0_0_14,14541.39723551556,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+15,0_0_15,33261.48775895062,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+16,0_0_16,5.498356565419387,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+17,1_0_0,372282.68941623607,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+18,1_0_1,69474.99931179793,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+19,1_0_2,21495.150996676275,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+20,1_0_3,714.7189371082326,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+21,1_0_4,71524.77567205354,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+22,1_0_5,14106.287746993776,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+23,1_0_6,442.9954685047972,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+24,1_0_7,1535.081603739409,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+25,1_0_8,377.0498315066903,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+26,1_0_9,7463.708589461802,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+27,1_0_10,4977.869445466392,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+28,1_0_11,6732.806365226425,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+29,1_0_12,25637.65930511132,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+30,1_0_13,696.6214159319815,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+31,1_0_14,14480.880373858286,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+32,1_0_15,39152.73688219056,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+33,1_0_16,36.67228549408965,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+34,2_0_0,372053.59285117127,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+35,2_0_1,70131.69482384421,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+36,2_0_2,22456.021781071253,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+37,2_0_3,706.406775559779,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+38,2_0_4,68916.71872347522,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+39,2_0_5,13980.4209005813,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+40,2_0_6,501.0878704805739,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+41,2_0_7,1538.545139207631,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+42,2_0_8,352.79259702067884,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+43,2_0_9,7282.120717313786,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+44,2_0_10,4898.611191990909,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+45,2_0_11,6734.87714794825,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+46,2_0_12,26688.896699041445,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+47,2_0_13,697.9541188831814,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+48,2_0_14,14417.177776434006,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+49,2_0_15,34164.32878714207,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+50,2_0_16,5611.45574619481,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+51,3_0_0,368172.3748969511,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+52,3_0_1,71668.38819000132,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+53,3_0_2,22533.887851250187,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+54,3_0_3,626.2937769842447,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+55,3_0_4,67895.6145248687,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+56,3_0_5,14005.935446259837,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+57,3_0_6,418.6632324254567,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+58,3_0_7,1539.6074131024052,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+59,3_0_8,242.14542137491765,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+60,3_0_9,7523.528219962664,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+61,3_0_10,5022.780271642856,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+62,3_0_11,6843.457613869175,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+63,3_0_12,28146.145074253385,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+64,3_0_13,719.0072859316765,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+65,3_0_14,14785.202040088445,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+66,3_0_15,35912.30446539695,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+67,3_0_16,5077.367922996028,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+68,4_0_0,365676.7651481966,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+69,4_0_1,72505.77863063038,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+70,4_0_2,21939.55559064616,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+71,4_0_3,675.1363864538109,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+72,4_0_4,67866.11420951424,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+73,4_0_5,14328.845380819366,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+74,4_0_6,431.8356157311912,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+75,4_0_7,1540.2502966205186,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+76,4_0_8,330.92210937425966,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+77,4_0_9,7968.314603558261,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+78,4_0_10,5260.621323790054,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+79,4_0_11,6733.803771827943,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+80,4_0_12,28341.73698008049,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+81,4_0_13,728.2533387454416,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+82,4_0_14,15259.142229086736,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+83,4_0_15,39213.4163047014,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+84,4_0_16,2332.2117275787277,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+85,5_0_0,366171.2864719646,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+86,5_0_1,72294.67809298517,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+87,5_0_2,22139.78998247289,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+88,5_0_3,786.9365610537831,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+89,5_0_4,67864.52446330605,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+90,5_0_5,14447.658504825358,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+91,5_0_6,326.2276827571909,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+92,5_0_7,1541.3328561099777,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+93,5_0_8,383.564990078897,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+94,5_0_9,7780.171343866852,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+95,5_0_10,5292.519477861024,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+96,5_0_11,6644.578416345736,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+97,5_0_12,28567.682230048653,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+98,5_0_13,718.9834823124404,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+99,5_0_14,14739.203270701377,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+100,5_0_15,35349.147429065866,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+101,5_0_16,6084.41839159906,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+102,6_0_0,366552.2883895684,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+103,6_0_1,71665.19896478382,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+104,6_0_2,21907.958246600083,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+105,6_0_3,706.1940010399251,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+106,6_0_4,68993.67465447515,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+107,6_0_5,14690.901272103703,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+108,6_0_6,298.6085616034021,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+109,6_0_7,1540.9976347859863,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+110,6_0_8,367.00262998250906,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+111,6_0_9,7940.432060209213,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+112,6_0_10,5529.76241202175,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+113,6_0_11,6583.439602396633,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+114,6_0_12,28211.585158841583,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+115,6_0_13,705.9531000916354,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+116,6_0_14,14084.132678957469,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+117,6_0_15,36052.46816519793,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+118,6_0_16,5302.106114700028,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+119,7_0_0,365974.3016044394,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+120,7_0_1,70418.83211323044,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+121,7_0_2,21766.85116472738,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+122,7_0_3,728.0680328218879,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+123,7_0_4,69561.3576741998,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+124,7_0_5,14334.47141841342,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+125,7_0_6,275.6313824605056,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+126,7_0_7,1542.5919811100075,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+127,7_0_8,417.337275571298,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+128,7_0_9,8234.052514553938,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+129,7_0_10,5276.986604650225,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+130,7_0_11,6726.999646364079,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+131,7_0_12,27826.614551185077,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+132,7_0_13,703.6965292555035,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+133,7_0_14,13894.846036420991,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+134,7_0_15,36534.55715035479,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+135,7_0_16,6915.507967600694,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+136,8_0_0,363261.3429439461,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+137,8_0_1,71187.75712764983,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+138,8_0_2,21707.729785644184,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+139,8_0_3,734.5185694323462,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+140,8_0_4,69943.90007117482,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+141,8_0_5,14015.646652851416,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+142,8_0_6,314.27128390135624,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+143,8_0_7,1542.3739946229675,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+144,8_0_8,381.4662963539102,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+145,8_0_9,8233.894017796674,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+146,8_0_10,5094.479421329034,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+147,8_0_11,6728.568422080595,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+148,8_0_12,28069.308065239813,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+149,8_0_13,700.6138323115524,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+150,8_0_14,13837.76441128058,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+151,8_0_15,39482.28667127909,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+152,8_0_16,5896.7820804696685,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+153,9_0_0,360436.6367240481,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+154,9_0_1,73518.69422895438,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+155,9_0_2,20965.361501362124,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+156,9_0_3,760.3929673543718,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+157,9_0_4,69117.17023595046,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+158,9_0_5,14347.77960713874,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+159,9_0_6,321.3152153875964,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+160,9_0_7,1539.0153945827635,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+161,9_0_8,209.995429131704,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+162,9_0_9,7788.054435389196,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+163,9_0_10,5035.176855491916,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+164,9_0_11,6681.912327499801,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+165,9_0_12,28697.44680654206,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+166,9_0_13,704.6449754950119,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+167,9_0_14,13848.180385784117,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+168,9_0_15,44426.49811724977,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+169,9_0_16,2734.4284400000547,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+170,10_0_0,354375.1604116219,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+171,10_0_1,74590.28776818373,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+172,10_0_2,19644.138713708864,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+173,10_0_3,797.8954626086448,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+174,10_0_4,69595.15858882501,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+175,10_0_5,17617.050646264477,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+176,10_0_6,452.4008501048605,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+177,10_0_7,1538.5503074344058,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+178,10_0_8,24.190588443898893,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+179,10_0_9,7872.463116319302,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+180,10_0_10,5167.138132283337,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+181,10_0_11,6699.012655350307,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+182,10_0_12,30478.77915493738,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+183,10_0_13,784.5138429714856,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+184,10_0_14,14291.1123398669,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+185,10_0_15,44681.75514624864,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+186,10_0_16,2523.0959221820945,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+187,11_0_0,351275.04912129865,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+188,11_0_1,74055.17796201223,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+189,11_0_2,20966.45769727298,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+190,11_0_3,771.7512999079194,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+191,11_0_4,67611.42152872334,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+192,11_0_5,18328.04102376967,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+193,11_0_6,427.4100136268797,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+194,11_0_7,1542.3593310341903,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+195,11_0_8,18.93769878754092,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+196,11_0_9,7832.407699174511,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+197,11_0_10,4926.38673110823,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+198,11_0_11,6570.642690388447,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+199,11_0_12,32008.17956696361,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+200,11_0_13,783.6455760725183,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+201,11_0_14,14838.444324692118,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+202,11_0_15,45311.32229881564,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+203,11_0_16,3865.0690837035495,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+204,12_0_0,350222.4036711507,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+205,12_0_1,75608.15723225735,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+206,12_0_2,19805.88997644896,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+207,12_0_3,718.2767082005024,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+208,12_0_4,66952.37092891944,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+209,12_0_5,16081.10625439259,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+210,12_0_6,388.4943120895956,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+211,12_0_7,1538.7774785670763,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+212,12_0_8,19.08921830429642,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+213,12_0_9,7856.358584005573,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+214,12_0_10,4735.677362724998,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+215,12_0_11,6436.523618787822,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+216,12_0_12,33391.56285984879,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+217,12_0_13,769.4918281633012,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+218,12_0_14,14808.492550562423,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+219,12_0_15,49839.47501340051,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+220,12_0_16,1960.556049528516,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+221,13_0_0,349082.88269025646,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+222,13_0_1,73945.42253070451,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+223,13_0_2,21212.866900379533,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+224,13_0_3,782.5221536355004,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+225,13_0_4,67815.58323701461,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+226,13_0_5,15520.340106716842,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+227,13_0_6,333.2901687734966,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+228,13_0_7,1538.92565215553,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+229,13_0_8,27.786450561210696,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+230,13_0_9,7837.507053146177,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+231,13_0_10,4813.870627393294,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+232,13_0_11,6484.160310997813,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+233,13_0_12,32493.75298034397,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+234,13_0_13,774.6466560265618,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+235,13_0_14,14920.128503145424,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+236,13_0_15,52893.79647596092,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+237,13_0_16,655.2211501390738,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+238,14_0_0,345674.77155892,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+239,14_0_1,74462.5907583028,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+240,14_0_2,21532.03234761201,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+241,14_0_3,782.2191066802318,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+242,14_0_4,67769.6587576635,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+243,14_0_5,18332.171934898724,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+244,14_0_6,299.68738042900344,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+245,14_0_7,1544.5860167140124,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+246,14_0_8,72.71881978535565,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+247,14_0_9,8123.0545545135665,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+248,14_0_10,4948.786800771101,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+249,14_0_11,6553.918513796119,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+250,14_0_12,31477.30620370731,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+251,14_0_13,772.5293491718215,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+252,14_0_14,14801.753788464954,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+253,14_0_15,43541.54850525029,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+254,14_0_16,10443.36925067372,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+255,15_0_0,344273.0665390763,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+256,15_0_1,72157.23491505145,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+257,15_0_2,23937.44059833917,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+258,15_0_3,780.821816080085,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+259,15_0_4,66134.18045751203,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+260,15_0_5,19429.397920657542,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+261,15_0_6,356.9927185981606,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+262,15_0_7,1543.204032900915,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+263,15_0_8,62.011683223999626,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+264,15_0_9,8025.67793880292,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+265,15_0_10,5092.973591829677,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+266,15_0_11,6675.410737423727,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+267,15_0_12,30946.71695135472,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+268,15_0_13,786.2733227043528,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+269,15_0_14,14774.01522005998,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+270,15_0_15,46477.90392866498,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+271,15_0_16,9679.381275072288,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+272,16_0_0,343690.93305102014,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+273,16_0_1,71267.4001609375,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+274,16_0_2,22048.827092196112,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+275,16_0_3,875.584595733492,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+276,16_0_4,67832.70177772791,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+277,16_0_5,20296.981224196137,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+278,16_0_6,391.7962111990256,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+279,16_0_7,1544.0794418373453,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+280,16_0_8,35.645548974816165,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+281,16_0_9,7425.01257923267,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+282,16_0_10,5102.292524834872,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+283,16_0_11,6728.343575916231,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+284,16_0_12,31285.435171698515,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+285,16_0_13,765.9279492934413,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+286,16_0_14,14672.116338014896,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+287,16_0_15,39291.03915424903,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+288,16_0_16,17878.587250295463,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+289,17_0_0,341497.86642191623,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+290,17_0_1,70871.7963889583,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+291,17_0_2,21983.2423274634,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+292,17_0_3,884.4901298479655,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+293,17_0_4,68937.27833037818,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+294,17_0_5,19465.683809860227,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+295,17_0_6,425.2507974936131,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+296,17_0_7,1543.9256066521905,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+297,17_0_8,29.711444778036658,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+298,17_0_9,7433.366027903638,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+299,17_0_10,5141.533108904935,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+300,17_0_11,6846.351897638932,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+301,17_0_12,30484.38281662389,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+302,17_0_13,761.0337659993596,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+303,17_0_14,15059.348684822073,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+304,17_0_15,42220.9203287451,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+305,17_0_16,17546.521759369578,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+306,18_0_0,338159.29431807,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+307,18_0_1,70984.13223338744,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+308,18_0_2,20835.74603415661,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+309,18_0_3,1069.836254792606,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+310,18_0_4,67421.8245759238,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+311,18_0_5,19693.46672811882,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+312,18_0_6,474.0769498992311,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+313,18_0_7,1544.7296412770147,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+314,18_0_8,26.366219214283188,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+315,18_0_9,7456.411182134063,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+316,18_0_10,5183.613566088101,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+317,18_0_11,6622.386939484445,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+318,18_0_12,32065.67541633797,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+319,18_0_13,796.8412573835001,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+320,18_0_14,15320.33539243236,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+321,18_0_15,41291.52461811506,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+322,18_0_16,22186.442320547187,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+323,19_0_0,334271.43202233943,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+324,19_0_1,71918.23963515965,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+325,19_0_2,21786.50567272776,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+326,19_0_3,935.8605801960324,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+327,19_0_4,67081.05108844528,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+328,19_0_5,22780.96423092939,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+329,19_0_6,466.524961098072,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+330,19_0_7,1542.7120026320315,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+331,19_0_8,23.7206112460842,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+332,19_0_9,7134.000637390923,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+333,19_0_10,5198.403774004748,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+334,19_0_11,6645.870578515373,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+335,19_0_12,31412.807807312456,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+336,19_0_13,823.6048110507484,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+337,19_0_14,15274.992597242868,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+338,19_0_15,47979.33529082619,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+339,19_0_16,15856.677346241157,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+340,20_0_0,330543.99875596777,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+341,20_0_1,71372.94230003041,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+342,20_0_2,22488.787157178736,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+343,20_0_3,2034.346711762188,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+344,20_0_4,64970.392747161415,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+345,20_0_5,24515.43126073519,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+346,20_0_6,452.7381634945874,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+347,20_0_7,1543.3158520456925,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+348,20_0_8,353.85061003554483,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+349,20_0_9,6881.707259370026,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+350,20_0_10,5247.643510861744,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+351,20_0_11,6796.65827976806,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+352,20_0_12,31313.004374144886,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+353,20_0_13,968.0781420141508,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+354,20_0_14,14535.284568864863,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+355,20_0_15,54841.28844606992,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+356,20_0_16,12273.235507851265,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+357,21_0_0,328741.2732325475,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+358,21_0_1,70827.71733244488,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+359,21_0_2,22196.877292268346,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+360,21_0_3,1436.5649656638973,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+361,21_0_4,63822.86680391769,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+362,21_0_5,25401.97043856809,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+363,21_0_6,403.9322068307182,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+364,21_0_7,1543.3966215970045,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+365,21_0_8,341.49214309662784,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+366,21_0_9,7433.028457030847,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+367,21_0_10,5003.736063678495,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+368,21_0_11,7254.152216686427,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+369,21_0_12,34285.81290675553,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+370,21_0_13,962.420655886242,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+371,21_0_14,14384.46930585072,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+372,21_0_15,50382.99509829051,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+373,21_0_16,16709.997906241857,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+374,22_0_0,327000.7305057131,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+375,22_0_1,70158.63602138632,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+376,22_0_2,21133.034058278878,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+377,22_0_3,1306.8347804844632,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+378,22_0_4,63644.08178105997,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+379,22_0_5,27211.34954858432,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+380,22_0_6,378.8505413028383,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+381,22_0_7,1543.1588145392684,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+382,22_0_8,307.9089192627895,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+383,22_0_9,7247.672565187182,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+384,22_0_10,4891.142443082878,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+385,22_0_11,7471.600247370159,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+386,22_0_12,35628.86790479289,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+387,22_0_13,1016.7163567044374,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+388,22_0_14,14219.180997547444,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+389,22_0_15,49720.1243082065,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+390,22_0_16,18252.81385385578,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+391,23_0_0,322725.64886301383,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+392,23_0_1,70085.33416528351,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+393,23_0_2,21022.241138090485,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+394,23_0_3,1428.0867515257326,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+395,23_0_4,64889.11336770656,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+396,23_0_5,28254.270935274155,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+397,23_0_6,397.1722470943965,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+398,23_0_7,1541.7506025415055,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+399,23_0_8,317.9057232647135,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+400,23_0_9,7565.784467956434,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+401,23_0_10,4938.572351075968,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+402,23_0_11,6944.615989151308,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+403,23_0_12,34555.60836456612,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+404,23_0_13,1094.0147753356648,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+405,23_0_14,14232.44747535978,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+406,23_0_15,62711.990644892096,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+407,23_0_16,8428.145785223409,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+408,24_0_0,320840.57279729133,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+409,24_0_1,69963.95882242857,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+410,24_0_2,21222.048140281277,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+411,24_0_3,1292.5568944349532,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+412,24_0_4,63358.17060633879,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+413,24_0_5,30095.54403712474,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+414,24_0_6,414.56671386573305,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+415,24_0_7,1541.9502656046836,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+416,24_0_8,329.1964548298572,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+417,24_0_9,7086.655168737955,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+418,24_0_10,5083.505715503384,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+419,24_0_11,6760.465754726452,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+420,24_0_12,36182.7718882133,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+421,24_0_13,1048.9824460326256,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+422,24_0_14,14583.732804926263,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+423,24_0_15,63994.955922111134,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+424,24_0_16,7333.0692149065,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+425,25_0_0,319153.7594522559,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+426,25_0_1,69018.47540002406,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+427,25_0_2,20905.473814806825,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+428,25_0_3,1313.7193118440737,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+429,25_0_4,62954.05787374635,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+430,25_0_5,29399.233570245764,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+431,25_0_6,373.3247975764136,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+432,25_0_7,1541.837364964632,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+433,25_0_8,308.73663541688995,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+434,25_0_9,6680.483670438943,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+435,25_0_10,5215.20067285924,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+436,25_0_11,6816.009274518068,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+437,25_0_12,36428.60291694614,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+438,25_0_13,972.8311242257588,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+439,25_0_14,14479.778184905736,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+440,25_0_15,69219.951712919,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+441,25_0_16,6351.227869661651,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+442,26_0_0,317055.06776603946,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+443,26_0_1,69804.77103356039,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+444,26_0_2,20323.39361916712,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+445,26_0_3,1362.2688052988444,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+446,26_0_4,63909.5231050606,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+447,26_0_5,26504.071797428125,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+448,26_0_6,349.94804789705233,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+449,26_0_7,1543.2590750445563,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+450,26_0_8,372.44515338899134,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+451,26_0_9,6525.6512882444085,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+452,26_0_10,5112.83401520212,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+453,26_0_11,6750.326341629196,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+454,26_0_12,34932.180101028054,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+455,26_0_13,944.3042499383788,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+456,26_0_14,14525.5641688133,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+457,26_0_15,68233.35641898644,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+458,26_0_16,12883.738660630645,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+459,27_0_0,312737.25472598115,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+460,27_0_1,69923.41002017436,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+461,27_0_2,20061.548129734256,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+462,27_0_3,1346.7565156131452,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+463,27_0_4,66968.87968301248,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+464,27_0_5,27558.36376504753,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+465,27_0_6,362.5828404350727,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+466,27_0_7,1545.5148280656522,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+467,27_0_8,316.9463074336603,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+468,27_0_9,6250.66504942849,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+469,27_0_10,4920.641495531681,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+470,27_0_11,7040.601718828741,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+471,27_0_12,32956.45968733203,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+472,27_0_13,905.3284823877688,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+473,27_0_14,14974.55539253343,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+474,27_0_15,70913.79270913798,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+475,27_0_16,12349.402296677228,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+476,28_0_0,310782.6283379846,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+477,28_0_1,70025.8080153246,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+478,28_0_2,20191.315426673536,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+479,28_0_3,1508.578977701845,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+480,28_0_4,67036.41374309511,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+481,28_0_5,29884.204435755928,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+482,28_0_6,318.21654139438726,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+483,28_0_7,1544.5396098572878,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+484,28_0_8,176.96002123535044,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+485,28_0_9,6423.133658175859,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+486,28_0_10,4695.663985423185,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+487,28_0_11,6748.473682591817,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+488,28_0_12,31631.53467618313,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+489,28_0_13,938.6758644409148,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+490,28_0_14,15056.001127740215,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+491,28_0_15,74629.24094459142,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+492,28_0_16,9541.314599184503,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+493,29_0_0,310655.25229365844,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+494,29_0_1,69382.75074099547,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+495,29_0_2,19334.938221813947,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+496,29_0_3,1474.0594743273089,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+497,29_0_4,66094.37912600428,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+498,29_0_5,31589.651203569483,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+499,29_0_6,326.52770780728093,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+500,29_0_7,1543.9111858688002,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+501,29_0_8,191.42079874758903,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+502,29_0_9,6906.656319287213,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+503,29_0_10,4732.115984315011,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+504,29_0_11,6754.960175538809,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+505,29_0_12,32203.63962872604,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+506,29_0_13,891.6910736435464,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+507,29_0_14,14789.830675990992,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+508,29_0_15,76604.53694823588,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+509,29_0_16,7656.382088828914,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+510,30_0_0,310004.1069551051,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+511,30_0_1,69169.1989719635,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+512,30_0_2,18569.32389775906,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+513,30_0_3,1666.3419899135008,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+514,30_0_4,66322.6707221483,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+515,30_0_5,33033.155467229706,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+516,30_0_6,302.4922008489412,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+517,30_0_7,1543.3432130451213,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+518,30_0_8,333.1339524261033,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+519,30_0_9,7243.585639447919,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+520,30_0_10,4911.353631725807,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+521,30_0_11,6914.132205132152,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+522,30_0_12,33056.22276354813,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+523,30_0_13,845.4310274001151,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+524,30_0_14,14938.288117471178,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+525,30_0_15,59730.63278212382,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+526,30_0_16,22549.290110076246,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+527,31_0_0,308198.1736339918,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+528,31_0_1,69840.64975841578,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+529,31_0_2,18835.420848998285,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+530,31_0_3,1668.8110941267353,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+531,31_0_4,66034.01795412364,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+532,31_0_5,34096.85053278607,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+533,31_0_6,311.220701422097,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+534,31_0_7,1544.021238443943,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+535,31_0_8,405.5318856859706,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+536,31_0_9,7552.959301978479,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+537,31_0_10,4761.488475947298,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+538,31_0_11,6968.172498898452,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+539,31_0_12,32519.162401839105,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+540,31_0_13,821.6739642414085,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+541,31_0_14,15169.840740812344,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+542,31_0_15,57633.632356104434,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+543,31_0_16,24771.07625954325,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+544,32_0_0,307340.22329577623,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+545,32_0_1,68912.04248203043,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+546,32_0_2,18152.186128819325,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+547,32_0_3,1706.4999328435313,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+548,32_0_4,67825.77191944853,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+549,32_0_5,33228.53253306801,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+550,32_0_6,326.0282729373423,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+551,32_0_7,1542.7068722477827,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+552,32_0_8,300.60218758360344,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+553,32_0_9,7664.410812468653,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+554,32_0_10,4854.108273812962,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+555,32_0_11,7059.905170862827,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+556,32_0_12,32121.073664471765,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+557,32_0_13,836.5150741708292,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+558,32_0_14,15320.766289085132,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+559,32_0_15,65956.53059097109,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+560,32_0_16,17984.800146759168,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+561,33_0_0,307072.45586651884,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+562,33_0_1,68537.04187476226,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+563,33_0_2,17570.820626540168,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+564,33_0_3,1724.0192399094826,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+565,33_0_4,67839.45473569098,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+566,33_0_5,34260.025730825255,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+567,33_0_6,347.5955231649819,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+568,33_0_7,1542.5802342969182,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+569,33_0_8,243.6538974708089,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+570,33_0_9,7482.566783033912,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+571,33_0_10,4811.320743618656,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+572,33_0_11,6997.213060467425,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+573,33_0_12,32485.04816835459,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+574,33_0_13,847.8945857718282,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+575,33_0_14,15336.48102364036,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+576,33_0_15,64938.736789483584,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+577,33_0_16,19095.794763806694,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+578,34_0_0,304996.4957063692,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+579,34_0_1,68101.31845235717,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+580,34_0_2,17831.652943661047,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+581,34_0_3,1746.3440859480258,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+582,34_0_4,68015.0738579585,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+583,34_0_5,35797.425984973575,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+584,34_0_6,319.4389308279916,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+585,34_0_7,1542.9747656496947,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+586,34_0_8,377.89973686387685,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+587,34_0_9,7653.017447642472,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+588,34_0_10,4904.2618215690045,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+589,34_0_11,7082.783043824066,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+590,34_0_12,32982.93552051197,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+591,34_0_13,826.4973513946308,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+592,34_0_14,15190.041766188971,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+593,34_0_15,66944.87392277969,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+594,34_0_16,16819.668308833545,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+595,35_0_0,301940.7977014228,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+596,35_0_1,68357.64959583423,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+597,35_0_2,18606.35085108377,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+598,35_0_3,1822.539293041652,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+599,35_0_4,66097.41308316265,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+600,35_0_5,36960.439683393335,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+601,35_0_6,378.3469187461285,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+602,35_0_7,1544.6140822329728,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+603,35_0_8,471.2134265117848,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+604,35_0_9,7417.801223489546,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+605,35_0_10,5107.103389544034,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+606,35_0_11,7120.703366241291,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+607,35_0_12,33542.299662678786,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+608,35_0_13,884.056190248477,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+609,35_0_14,15088.017885219928,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+610,35_0_15,55193.23269540373,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+611,35_0_16,30600.124599102688,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+612,36_0_0,296953.1036243214,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+613,36_0_1,74841.10633488822,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+614,36_0_2,18889.006514655648,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+615,36_0_3,1778.6017257666308,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+616,36_0_4,64683.9771051788,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+617,36_0_5,35142.01260950817,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+618,36_0_6,516.0587382696792,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+619,36_0_7,1545.251601717868,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+620,36_0_8,310.8593478444018,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+621,36_0_9,6631.891937250483,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+622,36_0_10,5301.595142582484,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+623,36_0_11,7238.865085647526,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+624,36_0_12,34159.31630163143,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+625,36_0_13,1033.7217029970125,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+626,36_0_14,15195.936015499028,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+627,36_0_15,75359.86665914522,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+628,36_0_16,11551.53320044806,58,Cultivos Multiples,0.0,col5-v2-arg-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+629,37_0_0,292983.8191149077,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+630,37_0_1,76283.71198449424,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+631,37_0_2,18993.71425598921,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+632,37_0_3,1761.53206990895,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+633,37_0_4,64979.2503842395,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+634,37_0_5,35136.816216841195,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+635,37_0_6,495.6383347946945,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+636,37_0_7,1538.9758063253832,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+637,37_0_8,406.7972643953821,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+638,37_0_9,6109.303946665972,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+639,37_0_10,5349.079049246922,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+640,37_0_11,7026.65649054326,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+641,37_0_12,33716.781707629925,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+642,37_0_13,1048.7406495265568,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+643,37_0_14,15298.49835135275,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+644,37_0_15,90003.38802048926,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+645,38_0_0,286439.7484682045,3,Leñosas Cerradas,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+646,38_0_1,73832.45333972489,4,Leñosas Abiertas,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+647,38_0_2,20119.83560372899,6,Leñosas Inundables,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+648,38_0_3,2089.881996248557,9,Leñosas Cultivadas,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+649,38_0_4,66864.56383748884,11,Pastizal Inundable,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+650,38_0_5,35899.588568575804,15,Pasturas,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+651,38_0_6,474.0653117720907,23,Playa y Dunas,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+652,38_0_7,1538.999141155743,24,Infraestructura Urbana,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+653,38_0_8,398.67409627672544,25,Otras Areas No Vegetadas,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+654,38_0_9,6329.733404082417,26,Cuerpo de agua,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+655,38_0_10,5452.363506024804,32,Salinas,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+656,38_0_11,7172.067046852362,42,Pastizal Abierto,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+657,38_0_12,34685.20931282621,43,Pastizal Cerrado,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+658,38_0_13,1077.497622338425,44,Pastizal Disperso,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+659,38_0_14,15040.449850843432,45,Leñosas Dispersas,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina
+660,38_0_15,93717.5725412078,57,Cultivos Simples,0.0,col5-v2-arg-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",Chaco,Argentina

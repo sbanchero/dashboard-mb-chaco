@@ -1,0 +1,672 @@
+,system:index,area,class_id,class_name,territory,version,year,.geo,LEVEL_0
+0,0_0_0,680925.2206915994,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+1,0_0_1,78085.06930485985,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+2,0_0_2,70952.47334728384,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+3,0_0_3,850.619373221736,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+4,0_0_4,96883.14211323028,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+5,0_0_5,24196.86333699689,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+6,0_0_6,773.0600427901056,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+7,0_0_7,2360.041670048455,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+8,0_0_8,408.3101269279256,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+9,0_0_9,10181.13608318393,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+10,0_0_10,5109.015344642677,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+11,0_0_11,0.1059307541503906,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+12,0_0_12,7333.02428084687,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+13,0_0_13,50512.33808790246,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+14,0_0_14,716.0146239024026,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+15,0_0_15,14542.06613884378,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+16,0_0_16,34514.44010516648,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+17,0_0_17,40.24062245292059,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+18,1_0_0,682044.1665444932,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+19,1_0_1,75259.60752025191,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+20,1_0_2,68252.61433539903,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+21,1_0_3,714.8169745851712,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+22,1_0_4,96825.85088583356,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+23,1_0_5,24629.71867586351,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+24,1_0_6,762.0378062419819,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+25,1_0_7,2371.504097886713,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+26,1_0_8,386.4112380614527,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+27,1_0_9,10065.333202470583,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+28,1_0_10,4979.433814262054,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+29,1_0_11,0.0361189986572265,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+30,1_0_12,6906.264905823745,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+31,1_0_13,49261.20514626811,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+32,1_0_14,698.8538845192707,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+33,1_0_15,14481.542264258074,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+34,1_0_16,40626.54224378679,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+35,1_0_17,117.24156564744504,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+36,2_0_0,681461.0178303716,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+37,2_0_1,75880.88905142335,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+38,2_0_2,68956.99168802827,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+39,2_0_3,706.8126108565774,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+40,2_0_4,93908.0362066282,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+41,2_0_5,24985.59862500456,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+42,2_0_6,703.3976439097335,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+43,2_0_7,2378.329986940745,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+44,2_0_8,360.0063221227242,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+45,2_0_9,9948.21561847164,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+46,2_0_10,4900.139056617695,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+47,2_0_11,0.0361189986572265,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+48,2_0_12,6918.10214366336,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+49,2_0_13,50626.94570041002,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+50,2_0_14,699.8153647459185,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+51,2_0_15,14417.842192668715,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+52,2_0_16,35758.57249945219,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+53,2_0_17,5772.432564337266,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+54,3_0_0,676538.4414414358,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+55,3_0_1,77393.77542046542,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+56,3_0_2,69320.61156849985,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+57,3_0_3,626.800867058139,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+58,3_0_4,92572.67836230528,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+59,3_0_5,25340.46734224688,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+60,3_0_6,657.7017279085399,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+61,3_0_7,2389.6804902055887,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+62,3_0_8,248.9044855260977,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+63,3_0_9,10156.708316631815,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+64,3_0_10,5025.140393086129,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+65,3_0_11,0.082318125,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+66,3_0_12,6983.532817656154,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+67,3_0_13,52717.28855795903,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+68,3_0_14,720.3650510891722,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+69,3_0_15,14785.874283819545,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+70,3_0_16,37557.10316848851,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+71,3_0_17,5348.024612147117,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+72,4_0_0,673577.934397572,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+73,4_0_1,78234.35244648835,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+74,4_0_2,68694.13531200709,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+75,4_0_3,676.1340660747246,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+76,4_0_4,92591.90290722942,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+77,4_0_5,26298.90494097406,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+78,4_0_6,711.9962875182243,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+79,4_0_7,2392.6654641188047,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+80,4_0_8,337.5333180019037,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+81,4_0_9,10579.59941269787,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+82,4_0_10,5262.928611583862,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+83,4_0_11,0.0428612104492187,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+84,4_0_12,6866.804426739416,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+85,4_0_13,52762.00648449454,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+86,4_0_14,729.2844092396087,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+87,4_0_15,15259.830631216448,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+88,4_0_16,40881.40803279957,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+89,4_0_17,2525.7172146827406,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+90,5_0_0,673079.6415831046,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+91,5_0_1,77974.65530486566,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+92,5_0_2,69431.24508774804,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+93,5_0_3,788.1851238887368,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+94,5_0_4,92129.74041698089,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+95,5_0_5,26861.038777335983,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+96,5_0_6,608.6789373728095,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+97,5_0_7,2397.7220517506944,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+98,5_0_8,388.0343112025174,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+99,5_0_9,10385.508754567232,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+100,5_0_10,5293.950227622037,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+101,5_0_11,0.3950420311279298,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+102,5_0_12,6789.34826105285,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+103,5_0_13,53362.10690424056,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+104,5_0_14,719.9813512087666,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+105,5_0_15,14739.871437858765,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+106,5_0_16,37031.87947838468,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+107,5_0_17,6401.198173435455,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+108,6_0_0,673187.1554026349,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+109,6_0_1,77282.62911027833,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+110,6_0_2,69245.99453517399,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+111,6_0_3,706.8058271351546,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+112,6_0_4,92755.10800849364,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+113,6_0_5,27916.62278946151,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+114,6_0_6,545.4290000305384,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+115,6_0_7,2394.919231864216,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+116,6_0_8,374.47533755333774,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+117,6_0_9,10530.060449101096,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+118,6_0_10,5531.234459845294,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+119,6_0_11,0.0310537776489257,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+120,6_0_12,6766.515306877606,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+121,6_0_13,53001.57742372248,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+122,6_0_14,707.5751263789888,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+123,6_0_15,14084.795957216782,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+124,6_0_16,37760.644748873776,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+125,6_0_17,5591.607456235699,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+126,7_0_0,671721.8863698309,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+127,7_0_1,76078.61118021651,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+128,7_0_2,68839.3483004663,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+129,7_0_3,728.9291721333731,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+130,7_0_4,93645.30916267888,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+131,7_0_5,28119.59834972058,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+132,7_0_6,502.6349131511849,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+133,7_0_7,2395.657587693721,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+134,7_0_8,431.4288223482484,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+135,7_0_9,10953.462165403296,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+136,7_0_10,5279.808311503504,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+137,7_0_11,0.0151196581420898,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+138,7_0_12,6910.928248665826,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+139,7_0_13,52715.17900031003,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+140,7_0_14,704.9567241053898,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+141,7_0_15,13895.522417016284,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+142,7_0_16,38382.86722086224,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+143,7_0_17,7077.038158891534,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+144,8_0_0,667944.8185509852,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+145,8_0_1,76890.10469408477,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+146,8_0_2,69475.86027927122,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+147,8_0_3,735.2493632666276,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+148,8_0_4,93983.47864362168,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+149,8_0_5,27967.772948579808,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+150,8_0_6,544.0024989867602,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+151,8_0_7,2398.632286276178,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+152,8_0_8,398.89292724265727,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+153,8_0_9,11061.5701215777,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+154,8_0_10,5097.629237306729,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+155,8_0_11,0.0319192560424804,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+156,8_0_12,6900.837065752547,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+157,8_0_13,52930.09514207388,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+158,8_0_14,701.890405395711,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+159,8_0_15,13838.441870833256,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+160,8_0_16,41330.99135228036,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+161,8_0_17,6182.8819178695785,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+162,9_0_0,664229.6819623107,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+163,9_0_1,79153.48609996111,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+164,9_0_2,68811.4267313477,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+165,9_0_3,761.078153046725,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+166,9_0_4,92800.15837349024,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+167,9_0_5,29625.34045358201,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+168,9_0_6,507.9619593931226,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+169,9_0_7,2401.6395073294543,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+170,9_0_8,215.78596182604065,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+171,9_0_9,10889.765904889766,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+172,9_0_10,5038.577174533376,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+173,9_0_11,0.0075598190917968,36,Cultivos Arbustivos,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+174,9_0_12,6811.771174488666,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+175,9_0_13,53433.95712521565,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+176,9_0_14,706.5355996825855,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+177,9_0_15,13848.863413172365,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+178,9_0_16,46257.711715067904,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+179,9_0_17,2889.4323555026767,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+180,10_0_0,656637.1700108766,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+181,10_0_1,80112.05229961596,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+182,10_0_2,67229.61349410184,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+183,10_0_3,806.6465597244487,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+184,10_0_4,93698.27379335994,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+185,10_0_5,34419.84735228424,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+186,10_0_6,626.2290297802448,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+187,10_0_7,2404.73946548929,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+188,10_0_8,34.83924040859469,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+189,10_0_9,10869.972377515018,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+190,10_0_10,5172.3554596462645,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+191,10_0_11,6810.807520121698,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+192,10_0_12,55358.33606915886,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+193,10_0_13,786.4272122507467,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+194,10_0_14,14292.500439354895,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+195,10_0_15,46492.642551906894,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+196,10_0_16,2630.728349058433,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+197,11_0_0,652100.8730555038,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+198,11_0_1,79586.5577787122,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+199,11_0_2,68543.18300859124,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+200,11_0_3,779.4056382667478,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+201,11_0_4,91778.93057155928,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+202,11_0_5,35551.975499860106,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+203,11_0_6,639.786763883252,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+204,11_0_7,2412.465652441048,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+205,11_0_8,27.119550032963048,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+206,11_0_9,10822.478898325822,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+207,11_0_10,4931.516349158082,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+208,11_0_11,6703.703740809836,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+209,11_0_12,57560.764888537866,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+210,11_0_13,785.6487178700189,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+211,11_0_14,14839.141443065584,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+212,11_0_15,47174.748769382,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+213,11_0_16,4144.8808986503045,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+214,12_0_0,651094.6245303313,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+215,12_0_1,81174.6725499791,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+216,12_0_2,67010.39640331014,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+217,12_0_3,739.9110287376049,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+218,12_0_4,90969.3433719956,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+219,12_0_5,33687.33777730032,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+220,12_0_6,532.5970672518722,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+221,12_0_7,2410.7149732610937,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+222,12_0_8,27.93008915911796,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+223,12_0_9,10910.77106995146,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+224,12_0_10,4740.820020420612,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+225,12_0_11,6561.997087803166,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+226,12_0_12,58690.10066464615,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+227,12_0_13,771.0586998143873,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+228,12_0_14,14809.175807012603,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+229,12_0_15,52084.11585255358,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+230,12_0_16,2167.614231126111,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+231,13_0_0,648764.8048280556,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+232,13_0_1,79349.95259651523,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+233,13_0_2,69156.38385873982,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+234,13_0_3,816.1120980155796,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+235,13_0_4,92289.37753958385,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+236,13_0_5,33523.10039135625,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+237,13_0_6,496.37362050483256,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+238,13_0_7,2411.519956429413,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+239,13_0_8,55.24586446415957,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+240,13_0_9,10897.379922837896,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+241,13_0_10,4817.893549681044,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+242,13_0_11,6583.392751770463,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+243,13_0_12,57350.1605803856,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+244,13_0_13,776.096645104769,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+245,13_0_14,14920.802268082982,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+246,13_0_15,55402.329589174566,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+247,13_0_16,772.255163946668,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+248,14_0_0,644163.0836266263,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+249,14_0_1,79929.72200924675,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+250,14_0_2,70486.97414933337,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+251,14_0_3,792.8658338260877,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+252,14_0_4,91762.46896298236,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+253,14_0_5,37045.05747033477,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+254,14_0_6,447.94957746173714,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+255,14_0_7,2417.509850953628,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+256,14_0_8,94.15754973039571,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+257,14_0_9,11183.90143742402,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+258,14_0_10,4952.302743436302,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+259,14_0_11,6658.259935173592,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+260,14_0_12,56211.42489440598,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+261,14_0_13,774.1024210534948,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+262,14_0_14,14802.42214411638,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+263,14_0_15,45895.82975187456,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+264,14_0_16,10765.14886667258,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+265,15_0_0,640553.4468569129,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+266,15_0_1,77774.02208121314,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+267,15_0_2,73775.72134713117,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+268,15_0_3,790.6064022953509,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+269,15_0_4,89583.10284287756,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+270,15_0_5,39300.91197791213,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+271,15_0_6,661.963312937527,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+272,15_0_7,2419.373643326343,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+273,15_0_8,91.6457170373225,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+274,15_0_9,10980.387366800887,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+275,15_0_10,5097.508240532825,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+276,15_0_11,6777.648302177175,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+277,15_0_12,56205.22585577015,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+278,15_0_13,788.1597123000521,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+279,15_0_14,14774.694568833387,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+280,15_0_15,48696.26294127308,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+281,15_0_16,10112.500055316164,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+282,16_0_0,638402.0419316681,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+283,16_0_1,76884.27686622547,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+284,16_0_2,72699.416308738,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+285,16_0_3,890.1061482341236,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+286,16_0_4,90734.58799998484,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+287,16_0_5,41119.70733158648,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+288,16_0_6,733.3313312580477,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+289,16_0_7,2422.2507048428765,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+290,16_0_8,68.64546977977248,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+291,16_0_9,10346.687950346472,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+292,16_0_10,5107.682336921484,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+293,16_0_11,6838.328916674842,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+294,16_0_12,56801.64383150972,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+295,16_0_13,767.8132920430112,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+296,16_0_14,14672.9181512676,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+297,16_0_15,41235.33525251283,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+298,16_0_16,18658.407401058656,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+299,17_0_0,634414.1215986664,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+300,17_0_1,76630.02944216589,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+301,17_0_2,73094.29855963543,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+302,17_0_3,897.0892920924956,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+303,17_0_4,91698.87963773082,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+304,17_0_5,41184.04372996984,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+305,17_0_6,819.6959199458257,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+306,17_0_7,2424.8722465312203,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+307,17_0_8,58.41849495783878,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+308,17_0_9,10261.662729685417,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+309,17_0_10,5147.015321631597,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+310,17_0_11,6949.856174833082,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+311,17_0_12,56375.26713281679,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+312,17_0_13,763.1611025402643,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+313,17_0_14,15060.160590988506,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+314,17_0_15,44631.37877840731,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+315,17_0_16,17973.23047205087,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+316,18_0_0,629430.1208264405,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+317,18_0_1,76670.51404821961,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+318,18_0_2,71303.34861143143,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+319,18_0_3,1086.6261436420414,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+320,18_0_4,90315.8392319474,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+321,18_0_5,42745.72869714706,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+322,18_0_6,815.330604844822,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+323,18_0_7,2429.2024165391203,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+324,18_0_8,57.22422856483768,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+325,18_0_9,10324.422816672792,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+326,18_0_10,5188.352767498798,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+327,18_0_11,6752.2531276690215,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+328,18_0_12,58532.99984032304,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+329,18_0_13,798.909244988656,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+330,18_0_14,15321.03983318448,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+331,18_0_15,43497.92730123604,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+332,18_0_16,23113.34148431234,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+333,19_0_0,625208.0228198993,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+334,19_0_1,77721.58882301665,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+335,19_0_2,71940.12012376802,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+336,19_0_3,952.802337458954,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+337,19_0_4,90086.50664789746,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+338,19_0_5,46898.56995405896,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+339,19_0_6,809.4664990889115,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+340,19_0_7,2426.367707280971,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+341,19_0_8,52.67650972988876,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+342,19_0_9,10026.081394922909,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+343,19_0_10,5202.6752783646325,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+344,19_0_11,6762.804826983469,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+345,19_0_12,57251.39894696116,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+346,19_0_13,825.2694620900045,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+347,19_0_14,15275.74252304371,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+348,19_0_15,50219.54620658984,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+349,19_0_16,16723.54116350652,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+350,20_0_0,619218.9198313606,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+351,20_0_1,77066.95424495655,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+352,20_0_2,73854.27238738317,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+353,20_0_3,2064.923366608092,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+354,20_0_4,86676.08831396917,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+355,20_0_5,50800.43826289378,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+356,20_0_6,764.3540729791386,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+357,20_0_7,2425.814117604221,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+358,20_0_8,383.9369189945972,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+359,20_0_9,9757.274870688016,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+360,20_0_10,5251.8972826190975,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+361,20_0_11,6902.329089063295,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+362,20_0_12,57373.75692504524,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+363,20_0_13,969.7015831119462,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+364,20_0_14,14535.979950918349,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+365,20_0_15,57448.17494787044,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+366,20_0_16,12888.365058591298,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+367,21_0_0,616036.9952562291,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+368,21_0_1,76377.45415543753,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+369,21_0_2,73658.04126285005,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+370,21_0_3,1472.8990053504351,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+371,21_0_4,85137.10679563443,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+372,21_0_5,52864.854428753104,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+373,21_0_6,761.4819422008848,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+374,21_0_7,2426.6607763633533,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+375,21_0_8,359.7154718396802,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+376,21_0_9,10320.661770971776,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+377,21_0_10,5007.386192748792,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+378,21_0_11,7384.199689037924,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+379,21_0_12,60419.40967628878,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+380,21_0_13,964.011791577481,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+381,21_0_14,14385.164090139362,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+382,21_0_15,53342.79550424294,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+383,21_0_16,17464.343414991512,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+384,22_0_0,613098.1164880127,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+385,22_0_1,75809.72562604866,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+386,22_0_2,72719.75074069954,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+387,22_0_3,1334.392199164436,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+388,22_0_4,84566.42609232344,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+389,22_0_5,56410.2066897206,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+390,22_0_6,770.4011646117216,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+391,22_0_7,2429.6494506350164,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+392,22_0_8,324.07708384200805,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+393,22_0_9,10118.959399512338,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+394,22_0_10,4895.100613279583,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+395,22_0_11,7569.406960632955,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+396,22_0_12,61412.169049704746,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+397,22_0_13,1017.8061126107034,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+398,22_0_14,14219.853570497286,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+399,22_0_15,52319.82108336629,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+400,22_0_16,19367.31889999738,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+401,23_0_0,605440.1902334694,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+402,23_0_1,75598.40358165307,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+403,23_0_2,73151.3793306515,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+404,23_0_3,1457.8355087981145,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+405,23_0_4,85807.57878622333,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+406,23_0_5,59859.63090123912,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+407,23_0_6,845.4378547052673,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+408,23_0_7,2429.629335442119,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+409,23_0_8,332.85284688365846,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+410,23_0_9,10423.270505014796,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+411,23_0_10,4942.387634488265,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+412,23_0_11,7053.457031579703,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+413,23_0_12,60535.94001248486,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+414,23_0_13,1094.9596380728983,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+415,23_0_14,14233.121122771485,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+416,23_0_15,66256.61017724434,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+417,23_0_16,8920.49672393205,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+418,24_0_0,601131.9004394683,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+419,24_0_1,75521.15326463005,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+420,24_0_2,73153.40235451747,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+421,24_0_3,1316.192270919713,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+422,24_0_4,84646.7856118207,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+423,24_0_5,63511.593258564506,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+424,24_0_6,842.444154343711,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+425,24_0_7,2432.64813213022,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+426,24_0_8,341.12279654996763,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+427,24_0_9,9921.760892874076,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+428,24_0_10,5087.283317357869,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+429,24_0_11,6868.619720611617,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+430,24_0_12,62341.09883389851,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+431,24_0_13,1049.991913039287,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+432,24_0_14,14584.408212493076,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+433,24_0_15,67320.88067402253,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+434,24_0_16,8311.895377415733,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+435,25_0_0,596375.0384618753,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+436,25_0_1,74765.85550363835,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+437,25_0_2,73682.22402763499,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+438,25_0_3,1337.129998170154,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+439,25_0_4,83901.18959530395,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+440,25_0_5,64963.69578037788,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+441,25_0_6,740.9232148574383,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+442,25_0_7,2433.149448146529,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+443,25_0_8,315.132442666279,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+444,25_0_9,9629.267201959266,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+445,25_0_10,5219.523873683513,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+446,25_0_11,6906.386186864136,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+447,25_0_12,62172.15905430248,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+448,25_0_13,973.350625693459,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+449,25_0_14,14480.44701023549,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+450,25_0_15,72726.979370131,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+451,25_0_16,7760.729429115567,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+452,26_0_0,591651.399249009,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+453,26_0_1,75771.87361946324,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+454,26_0_2,71312.05242613873,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+455,26_0_3,1394.927224528154,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+456,26_0_4,85083.9089132676,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+457,26_0_5,65379.44164514641,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+458,26_0_6,726.0392463736415,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+459,26_0_7,2439.979852495004,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+460,26_0_8,383.25431976422726,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+461,26_0_9,9448.886855251474,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+462,26_0_10,5116.594353021148,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+463,26_0_11,6845.0431988501605,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+464,26_0_12,60879.73560277992,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+465,26_0_13,945.1433813197426,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+466,26_0_14,14526.244366066518,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+467,26_0_15,72698.8248427425,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+468,26_0_16,13779.8321284398,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+469,27_0_0,585967.2514416651,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+470,27_0_1,76211.26274042303,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+471,27_0_2,69871.00863322966,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+472,27_0_3,1378.325936273635,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+473,27_0_4,88251.67385405197,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+474,27_0_5,68143.93451910086,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+475,27_0_6,774.2419978581834,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+476,27_0_7,2445.333597937328,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+477,27_0_8,327.09642464706155,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+478,27_0_9,9181.331339054566,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+479,27_0_10,4924.136301157711,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+480,27_0_11,7159.3303776566845,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+481,27_0_12,59066.50668881247,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+482,27_0_13,906.5318823951196,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+483,27_0_14,14975.247605541172,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+484,27_0_15,75733.64392004712,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+485,27_0_16,13066.323964802552,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+486,28_0_0,581819.0927728659,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+487,28_0_1,75735.34424711742,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+488,28_0_2,69225.28694233089,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+489,28_0_3,1571.5221011212363,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+490,28_0_4,88540.6625521881,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+491,28_0_5,73599.70632773361,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+492,28_0_6,716.7230368046488,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+493,28_0_7,2445.8352179644994,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+494,28_0_8,184.6309887436089,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+495,28_0_9,9410.87838538106,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+496,28_0_10,4700.417472404716,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+497,28_0_11,6874.766628746552,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+498,28_0_12,57508.65818595987,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+499,28_0_13,939.7889641336376,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+500,28_0_14,15056.675963603777,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+501,28_0_15,79019.00248050713,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+502,28_0_16,11034.188957050335,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+503,29_0_0,579862.0103159477,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+504,29_0_1,75479.61688314812,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+505,29_0_2,67840.73499822587,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+506,29_0_3,1554.9630148536528,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+507,29_0_4,87656.05137897981,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+508,29_0_5,77197.63037188703,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+509,29_0_6,720.2726102312786,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+510,29_0_7,2445.267011812324,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+511,29_0_8,202.94463106190472,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+512,29_0_9,9888.19500993795,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+513,29_0_10,4736.817317300384,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+514,29_0_11,6893.144898492948,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+515,29_0_12,58004.80569301364,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+516,29_0_13,892.7352248214421,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+517,29_0_14,14790.503296851602,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+518,29_0_15,81513.49290805655,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+519,29_0_16,8703.995660041632,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+520,30_0_0,573449.0097518844,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+521,30_0_1,75300.84627188556,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+522,30_0_2,67603.36993461427,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+523,30_0_3,1794.5589768934624,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+524,30_0_4,87349.57585191808,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+525,30_0_5,83336.00750450937,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+526,30_0_6,682.0105006775241,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+527,30_0_7,2447.0906790446165,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+528,30_0_8,344.00900515114887,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+529,30_0_9,10344.975861983416,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+530,30_0_10,4916.119847965253,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+531,30_0_11,7035.872240850845,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+532,30_0_12,58493.879176390124,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+533,30_0_13,846.3010476320978,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+534,30_0_14,14938.95872680012,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+535,30_0_15,65297.95769058027,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+536,30_0_16,24202.63815588314,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+537,31_0_0,567970.0109225711,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+538,31_0_1,75699.93342575186,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+539,31_0_2,68603.72617375305,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+540,31_0_3,1811.670681959688,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+541,31_0_4,86542.7159376367,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+542,31_0_5,87191.61227927521,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+543,31_0_6,724.0177995828127,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+544,31_0_7,2447.7879544688058,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+545,31_0_8,412.8465446789956,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+546,31_0_9,10727.646970526706,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+547,31_0_10,4767.142030732575,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+548,31_0_11,7103.488512092677,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+549,31_0_12,57930.44302824585,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+550,31_0_13,822.3591326760225,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+551,31_0_14,15170.511439017704,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+552,31_0_15,62224.10016546413,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+553,31_0_16,28233.16822622572,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+554,32_0_0,564390.4739162052,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+555,32_0_1,74949.83384429952,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+556,32_0_2,67842.49338049203,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+557,32_0_3,1865.95364771048,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+558,32_0_4,88062.89576815945,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+559,32_0_5,88508.79186840233,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+560,32_0_6,751.8372642077467,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+561,32_0_7,2447.336808677393,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+562,32_0_8,308.8767633662934,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+563,32_0_9,10834.237320085256,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+564,32_0_10,4859.660681747259,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+565,32_0_11,7182.9887998535405,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+566,32_0_12,57939.05966195936,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+567,32_0_13,837.3800132886224,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+568,32_0_14,15321.43990795827,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+569,32_0_15,72965.43857300222,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+570,32_0_16,19314.483005243343,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+571,33_0_0,562320.1413721074,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+572,33_0_1,74473.87986175029,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+573,33_0_2,67442.78799639082,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+574,33_0_3,1903.8554439644597,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+575,33_0_4,88208.37164248014,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+576,33_0_5,91122.86719038148,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+577,33_0_6,828.2855359301575,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+578,33_0_7,2448.12260921358,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+579,33_0_8,249.3808415871464,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+580,33_0_9,10666.61378191069,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+581,33_0_10,4816.60103318858,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+582,33_0_11,7111.31385490602,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+583,33_0_12,57704.774551872855,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+584,33_0_13,848.7099714448449,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+585,33_0_14,15337.154407182814,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+586,33_0_15,69968.85241981818,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+587,33_0_16,22931.468710528883,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+588,34_0_0,557342.6483413758,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+589,34_0_1,73950.07532993575,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+590,34_0_2,67442.64068815102,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+591,34_0_3,1929.791619621986,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+592,34_0_4,87746.99478239937,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+593,34_0_5,95828.0112295675,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+594,34_0_6,787.0622800700233,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+595,34_0_7,2451.1349216739127,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+596,34_0_8,382.6175856409989,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+597,34_0_9,10856.327329842816,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+598,34_0_10,4909.500508998984,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+599,34_0_11,7213.69304890655,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+600,34_0_12,58380.69549803799,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+601,34_0_13,827.4531609424781,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+602,34_0_14,15190.722065978824,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+603,34_0_15,74540.57040990656,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+604,34_0_16,18603.242423606865,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+605,35_0_0,549846.8204543978,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+606,35_0_1,74628.50467124204,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+607,35_0_2,69931.65940306269,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+608,35_0_3,2008.38699279458,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+609,35_0_4,85379.2093154713,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+610,35_0_5,98044.12357315734,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+611,35_0_6,831.4510848951198,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+612,35_0_7,2460.196428494457,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+613,35_0_8,477.0876898537424,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+614,35_0_9,10441.157829630702,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+615,35_0_10,5112.158513064815,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+616,35_0_11,7231.128668091378,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+617,35_0_12,59191.51919578105,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+618,35_0_13,885.2292534858594,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+619,35_0_14,15088.69588103897,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+620,35_0_15,61788.9151309627,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+621,35_0_16,35036.93713923698,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+622,36_0_0,542395.6298185668,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+623,36_0_1,81464.836526059,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+624,36_0_2,68956.03868619988,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+625,36_0_3,2012.291999136978,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+626,36_0_4,84293.10941382505,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+627,36_0_5,98194.73903811356,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+628,36_0_6,901.0365924564107,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+629,36_0_7,2464.460817575017,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+630,36_0_8,321.085635596534,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+631,36_0_9,9563.927690830373,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+632,36_0_10,5306.342904321067,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+633,36_0_11,7363.13933228553,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+634,36_0_12,59489.31289954984,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+635,36_0_13,1034.879173880753,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+636,36_0_14,15196.613753739452,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+637,36_0_15,85473.33452076919,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+638,36_0_16,13952.402421750818,58,Cultivos Multiples,0.0,col5-v2-chaco-level_bioma-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+639,37_0_0,535941.038947987,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+640,37_0_1,82916.90477987104,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+641,37_0_2,70052.2307273183,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+642,37_0_3,2040.956280564997,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+643,37_0_4,85100.43309849779,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+644,37_0_5,99558.327923024,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+645,37_0_6,894.2108223563002,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+646,37_0_7,2469.7299013593265,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+647,37_0_8,415.6408047444271,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+648,37_0_9,9069.403415335248,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+649,37_0_10,5353.947769990813,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+650,37_0_11,7162.168475630271,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+651,37_0_12,58507.9527910353,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+652,37_0_13,1049.431599006789,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+653,37_0_14,15299.1689597822,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+654,37_0_15,102551.63492815256,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+655,38_0_0,523961.3959568286,3,Leñosas Cerradas,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+656,38_0_1,80404.06840392796,4,Leñosas Abiertas,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+657,38_0_2,73407.14054503579,6,Leñosas Inundables,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+658,38_0_3,2434.554774236491,9,Leñosas Cultivadas,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+659,38_0_4,87750.45114903108,11,Pastizal Inundable,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+660,38_0_5,100063.73751177311,15,Pasturas,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+661,38_0_6,852.9031406037573,23,Playa y Dunas,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+662,38_0_7,2472.7902904572493,24,Infraestructura Urbana,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+663,38_0_8,414.7181717384474,25,Otras Areas No Vegetadas,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+664,38_0_9,9387.424920807309,26,Cuerpo de agua,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+665,38_0_10,5457.0814320035215,32,Salinas,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+666,38_0_11,7312.657968440541,42,Pastizal Abierto,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+667,38_0_12,59471.23227853419,43,Pastizal Cerrado,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+668,38_0_13,1078.1631143626078,44,Pastizal Disperso,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+669,38_0_14,15041.136177017646,45,Leñosas Dispersas,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO
+670,38_0_15,108873.72538985888,57,Cultivos Simples,0.0,col5-v2-chaco-level_bioma-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO

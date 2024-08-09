@@ -1,0 +1,563 @@
+,system:index,area,class_id,class_name,territory,version,year,.geo,LEVEL_0,LEVEL_1
+0,0_0_0,192331.5427156572,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+1,0_0_1,2082.0260877022088,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+2,0_0_2,47090.01254148974,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+3,0_0_3,0.0120854724121093,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+4,0_0_4,26116.98913951414,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+5,0_0_5,9064.691735180711,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+6,0_0_6,776.127709144956,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+7,0_0_7,0.8088501234674206,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+8,0_0_8,2013.940200251168,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+9,0_0_9,6.20943097125244,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+10,0_0_10,23244.78914156727,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+11,0_0_11,0.728113592087689,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+12,0_0_12,585.4440238148114,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+13,0_0_13,34.72441022967759,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1985,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+14,1_0_0,193332.96055401216,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+15,1_0_1,2018.261754923588,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+16,1_0_2,45815.35056259274,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+17,1_0_3,0.0812506543579101,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+18,1_0_4,25322.136408069186,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+19,1_0_5,10119.58676018758,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+20,1_0_6,0.0127493349609374,23,Playa y Dunas,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+21,1_0_7,777.117146322806,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+22,1_0_8,0.789687777130009,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+23,1_0_9,2002.7044889203569,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+24,1_0_10,12.989883306707616,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+25,1_0_11,23181.0158022528,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+26,1_0_12,0.9137584842514916,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+27,1_0_13,683.7590969051926,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+28,1_0_14,80.3662809662386,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1986,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+29,2_0_0,192947.91495160587,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+30,2_0_1,2059.568894537928,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+31,2_0_2,45582.93250499806,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+32,2_0_3,0.3926761325073241,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+33,2_0_4,25010.719198102684,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+34,2_0_5,10560.436698724348,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+35,2_0_6,777.4134192182362,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+36,2_0_7,0.7668049745007088,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+37,2_0_8,1982.9084066265716,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+38,2_0_9,7.439403137023926,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+39,2_0_10,23508.21596119073,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+40,2_0_11,0.6366014522504021,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+41,2_0_12,759.910805935381,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+42,2_0_13,148.7898580746438,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1987,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+43,3_0_0,191892.7401309536,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+44,3_0_1,2056.7206025179603,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+45,3_0_2,45863.13105412746,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+46,3_0_3,0.4907069610595705,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+47,3_0_4,24688.43582719605,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+48,3_0_5,10886.100910306472,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+49,3_0_6,776.2611657331913,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+50,3_0_7,0.2746296813033757,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+51,3_0_8,1950.379702931068,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+52,3_0_9,0.47458297444111,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+53,3_0_10,24198.270350550327,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+54,3_0_11,0.2881318159536331,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+55,3_0_12,788.5338966528902,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+56,3_0_13,245.9444923124313,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1988,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+57,4_0_0,191442.8346950106,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+58,4_0_1,2068.5313831881344,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+59,4_0_2,45849.47322820799,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+60,4_0_3,0.9556340521240234,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+61,4_0_4,24740.74913583451,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+62,4_0_5,11517.964666137232,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+63,4_0_6,774.9119489696471,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+64,4_0_7,0.7374148614501956,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+65,4_0_8,1943.681229922655,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+66,4_0_9,0.5933033820800776,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+67,4_0_10,24035.60717997351,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+68,4_0_11,0.0827475175917682,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+69,4_0_12,884.909095309656,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+70,4_0_13,87.01452234736549,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1989,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+71,5_0_0,190494.5736368336,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+72,5_0_1,2012.160299449923,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+73,5_0_2,46436.253045172256,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+74,5_0_3,1.2438462366943357,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+75,5_0_4,24286.43468189837,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+76,5_0_5,11949.02023689987,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+77,5_0_6,775.4604957384371,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+78,5_0_7,0.3159801959896311,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+79,5_0_8,1981.209494518206,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+80,5_0_9,0.7047505932617188,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+81,5_0_10,24404.59413838647,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+82,5_0_11,0.0827475648940143,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+83,5_0_12,829.6470905455031,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+84,5_0_13,176.3457406800443,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1990,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+85,6_0_0,190029.78340555425,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+86,6_0_1,2084.927312069497,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+87,6_0_2,46530.8140978065,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+88,6_0_3,0.629045676757813,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+89,6_0_4,23770.16023085204,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+90,6_0_5,12782.083289314727,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+91,6_0_6,770.4436527648467,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+92,6_0_7,0.0966722124107211,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+93,6_0_8,1964.7803919752744,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+94,6_0_9,14.301869704265089,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+95,6_0_10,24409.76956292558,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+96,6_0_11,0.8072788704331313,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+97,6_0_12,806.4877867399664,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+98,6_0_13,182.9615882471614,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1991,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+99,7_0_0,189222.2212779889,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+100,7_0_1,2145.917287279139,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+101,7_0_2,46278.74210134687,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+102,7_0_3,0.8716218804321282,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+103,7_0_4,24080.82488269248,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+104,7_0_5,13326.548955157768,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+105,7_0_6,0.1394603159713446,23,Playa y Dunas,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+106,7_0_7,767.3175307566776,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+107,7_0_8,0.3635666232548733,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+108,7_0_9,2085.774024511395,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+109,7_0_10,18.04369312117368,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+110,7_0_11,24539.05643456591,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+111,7_0_12,0.3509891279785156,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+112,7_0_13,762.2192485471795,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+113,7_0_14,119.65511079907844,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1992,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+114,8_0_0,188299.8199319411,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+115,8_0_1,2103.474245307717,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+116,8_0_2,46885.63245303969,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+117,8_0_3,0.743988745422363,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+118,8_0_4,24045.358803316303,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+119,8_0_5,13549.79091516572,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+120,8_0_6,0.00034788176700367647,23,Playa y Dunas,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+121,8_0_7,767.6066761729961,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+122,8_0_8,0.2546713630225089,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+123,8_0_9,2194.568242297201,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+124,8_0_10,16.687290494750997,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+125,8_0_11,24503.59006932401,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+126,8_0_12,0.4051371969705024,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+127,8_0_13,835.4196835293585,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+128,8_0_14,144.69372893790975,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1993,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+129,9_0_0,187394.00949745683,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+130,9_0_1,2069.259535259136,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+131,9_0_2,46895.65176221874,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+132,9_0_3,0.7116366234130859,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+133,9_0_4,23703.652060456847,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+134,9_0_5,14823.913880981954,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+135,9_0_6,771.2603710350791,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+136,9_0_7,0.5771726763937559,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+137,9_0_8,2493.1501572243133,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+138,9_0_9,7.4085004234008816,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+139,9_0_10,24360.63657486476,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+140,9_0_11,1.3713138512257428,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+141,9_0_12,744.3889835496217,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+142,9_0_13,82.05473809211506,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1994,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+143,10_0_0,185873.69547074253,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+144,10_0_1,2055.558493316127,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+145,10_0_2,46715.47862106607,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+146,10_0_3,8.771967824294626,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+147,10_0_4,24124.529052540627,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+148,10_0_5,16019.573764359637,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+149,10_0_6,772.3376572188067,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+150,10_0_7,0.0429838422770182,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+151,10_0_8,2570.817266972406,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+152,10_0_9,12.15613801433133,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+153,10_0_10,24517.95207893267,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+154,10_0_11,1.4502519247618584,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+155,10_0_12,0.7305298321839575,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+156,10_0_13,650.1914500713374,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+157,10_0_14,24.760458057506817,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1995,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+158,11_0_0,184766.7208976117,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+159,11_0_1,2098.61267310744,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+160,11_0_2,46758.81716238475,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+161,11_0_3,7.683895326751352,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+162,11_0_4,24193.10183068796,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+163,11_0_5,16256.659223021206,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+164,11_0_6,772.8795339682989,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+165,11_0_7,0.0008282637329101563,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+166,11_0_8,2571.5367138447577,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+167,11_0_9,5.785561760574634,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+168,11_0_10,25142.534800680303,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+169,11_0_11,1.8049610788997883,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+170,11_0_12,0.0966588070106656,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+171,11_0_13,557.5202272175599,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+172,11_0_14,214.29121695562247,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1996,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+173,12_0_0,185073.16743249845,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+174,12_0_1,2133.545850983721,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+175,12_0_2,46414.768554792645,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+176,12_0_3,21.64344484864428,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+177,12_0_4,24056.169920879827,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+178,12_0_5,16657.95784802138,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+179,12_0_6,772.8248162105722,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+180,12_0_7,2623.3440799417635,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+181,12_0_8,15.601207186303713,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+182,12_0_9,24772.31677153084,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+183,12_0_10,1.0077441889033278,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+184,12_0_11,0.0713116493637982,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+185,12_0_12,662.992773018909,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+186,12_0_13,142.6344289661527,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1997,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+187,13_0_0,184152.33794676757,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+188,13_0_1,1954.4211564253717,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+189,13_0_2,47124.616373411576,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+190,13_0_3,33.618046685588205,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+191,13_0_4,24511.81716073221,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+192,13_0_5,17047.079936773884,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+193,13_0_6,772.5463478390442,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+194,13_0_7,0.0003283779308842678,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+195,13_0_8,2647.737073723312,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+196,13_0_9,8.715077749328637,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+197,13_0_10,24321.78832918232,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+198,13_0_11,1.0053543125548114,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+199,13_0_12,0.0852555102553423,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+200,13_0_13,725.3943124433735,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+201,13_0_14,46.88348478669212,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1998,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+202,14_0_0,182964.5373144614,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+203,14_0_1,1993.0708779336967,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+204,14_0_2,48114.16092171505,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+205,14_0_3,10.653811919820386,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+206,14_0_4,24027.12089856227,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+207,14_0_5,17840.60541176274,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+208,14_0_6,771.3789266831793,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+209,14_0_7,0.1604899579647289,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+210,14_0_8,2615.077531946735,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+211,14_0_9,5.2029801354980485,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+212,14_0_10,24286.67355128725,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+213,14_0_11,1.2919783600126369,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+214,14_0_12,0.014408967918007,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+215,14_0_13,613.0821349216864,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+216,14_0_14,105.01494610672498,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,1999,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+217,15_0_0,180863.45593443196,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+218,15_0_1,2050.43103481718,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+219,15_0_2,49008.84490124258,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+220,15_0_3,9.826822731784702,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+221,15_0_4,23478.378928675946,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+222,15_0_5,19004.605533831666,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+223,15_0_6,773.199829547623,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+224,15_0_7,0.0274729677293964,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+225,15_0_8,2476.6726297796454,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+226,15_0_9,5.621514983463306,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+227,15_0_10,24847.67485461504,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+228,15_0_11,1.8210665410110876,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+229,15_0_12,0.0044663601909562,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+230,15_0_13,664.0287766921524,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+231,15_0_14,163.4524175058764,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2000,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+232,16_0_0,179404.83435201106,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+233,16_0_1,2060.3354894280483,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+234,16_0_2,49814.71063474188,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+235,16_0_3,14.599128322996345,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+236,16_0_4,22932.99114567061,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+237,16_0_5,19964.52553892569,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+238,16_0_6,774.1928474055511,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+239,16_0_7,0.0149083475341796,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+240,16_0_8,2436.9304820019784,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+241,16_0_9,9.045535481762949,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+242,16_0_10,25099.45590966421,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+243,16_0_11,1.8065722076854105,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+244,16_0_12,0.047322211033002,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+245,16_0_13,572.462594527608,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+246,16_0_14,262.09372377719416,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2001,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+247,17_0_0,177910.64743052746,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+248,17_0_1,2162.233207506785,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+249,17_0_2,50283.80228029766,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+250,17_0_3,12.789384936096187,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+251,17_0_4,22781.22570052805,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+252,17_0_5,20785.117962137545,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+253,17_0_6,776.4058324814728,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+254,17_0_7,0.0149088916015624,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+255,17_0_8,2383.607965914005,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+256,17_0_9,3.324870987060537,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+257,17_0_10,25420.369932407328,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+258,17_0_11,2.170330948079197,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+259,17_0_12,0.166642863846603,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+260,17_0_13,644.5466983586168,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+261,17_0_14,181.62303593687665,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2002,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+262,18_0_0,176456.2464679921,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+263,18_0_1,2068.636209140093,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+264,18_0_2,49715.59049027717,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+265,18_0_3,17.19495094037894,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+266,18_0_4,22910.86788807505,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+267,18_0_5,21961.54753654987,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+268,18_0_6,778.2353124771563,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+269,18_0_7,0.0240199199829101,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+270,18_0_8,2407.510757315483,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+271,18_0_9,2.4713912286376933,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+272,18_0_10,25970.452696068296,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+273,18_0_11,2.135898554180561,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+274,18_0_12,0.0024854583129882,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+275,18_0_13,756.7908360584736,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+276,18_0_14,300.3392446700633,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2003,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+277,19_0_0,176177.56706694115,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+278,19_0_1,2144.4646953470474,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+279,19_0_2,49418.95436843619,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+280,19_0_3,17.330085179624792,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+281,19_0_4,23032.50546605345,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+282,19_0_5,22899.40295764777,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+283,19_0_6,776.5840360870985,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+284,19_0_7,2441.6439316793053,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+285,19_0_8,17.718626979736335,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+286,19_0_9,25405.17344888982,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+287,19_0_10,1.5393859760859536,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+288,19_0_11,791.4071888356572,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+289,19_0_12,223.75492666983305,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2004,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+290,20_0_0,174084.73559352334,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+291,20_0_1,1991.0281145869003,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+292,20_0_2,50609.97983327959,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+293,20_0_3,30.8488151121309,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+294,20_0_4,21623.38107310808,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+295,20_0_5,25044.91162184329,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+296,20_0_6,774.6652582074058,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+297,20_0_7,0.0082266396031996,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+298,20_0_8,2448.036223084142,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+299,20_0_9,13.004072124820262,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+300,20_0_10,25592.192723696706,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+301,20_0_11,1.3423181509258213,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+302,20_0_12,0.0108176113156786,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+303,20_0_13,798.3752718007829,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+304,20_0_14,335.5262219578747,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2005,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+305,21_0_0,172907.91619013192,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+306,21_0_1,1964.1170724726007,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+307,21_0_2,50683.92163080363,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+308,21_0_3,36.97131708733573,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+309,21_0_4,21261.42126432121,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+310,21_0_5,26270.41368958072,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+311,21_0_6,0.0063749702148437,23,Playa y Dunas,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+312,21_0_7,774.5150876413011,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+313,21_0_8,0.0054650576506969,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+314,21_0_9,2440.4293942936206,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+315,21_0_10,46.84411892924943,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+316,21_0_11,25597.280849918385,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+317,21_0_12,1.186109704790428,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+318,21_0_13,0.0175304547729492,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+319,21_0_14,944.7779410945278,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+320,21_0_15,418.22214826534855,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2006,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+321,22_0_0,171909.14160421828,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+322,22_0_1,2071.8082598027177,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+323,22_0_2,50777.47303686985,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+324,22_0_3,27.72401639287173,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+325,22_0_4,20869.43113299942,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+326,22_0_5,27984.633166999745,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+327,22_0_6,776.7995931105545,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+328,22_0_7,0.0977234735107421,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+329,22_0_8,2445.380981951706,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+330,22_0_9,14.2661939792595,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+331,22_0_10,25260.55300873732,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+332,22_0_11,0.7066861634186382,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+333,22_0_12,827.877229733774,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+334,22_0_13,382.1535502901547,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2007,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+335,23_0_0,168823.76959988248,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+336,23_0_1,1915.6743443194075,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+337,23_0_2,51285.0916033263,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+338,23_0_3,29.94042431647602,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+339,23_0_4,20885.237083898,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+340,23_0_5,30297.455937329385,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+341,23_0_6,777.403336380574,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+342,23_0_7,0.0397528594360351,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+343,23_0_8,2454.715635200454,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+344,23_0_9,30.59190210362992,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+345,23_0_10,25461.595987636945,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+346,23_0_11,0.76286180192488,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+347,23_0_12,0.0089455064725988,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+348,23_0_13,1044.7724688933213,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+349,23_0_14,340.98630127154826,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2008,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+350,24_0_0,166613.14093742092,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+351,24_0_1,1961.0770075113287,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+352,24_0_2,51080.30472553439,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+353,24_0_3,23.80343912336491,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+354,24_0_4,21270.779792761,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+355,24_0_5,32056.500768082795,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+356,24_0_6,778.6449245866393,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+357,24_0_7,0.0847283495212928,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+358,24_0_8,2426.5127023659315,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+359,24_0_9,25.9905668683362,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+360,24_0_10,25624.153022767077,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+361,24_0_11,0.8211161329501264,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+362,24_0_12,985.583000384303,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+363,24_0_13,500.6494528373379,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2009,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+364,25_0_0,163795.92286899907,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+365,25_0_1,2180.877060792795,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+366,25_0_2,51956.24949625861,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+367,25_0_3,23.343724056434525,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+368,25_0_4,20953.872499708606,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+369,25_0_5,34203.87650559812,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+370,25_0_6,776.549368716445,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+371,25_0_7,0.0452105068263633,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+372,25_0_8,2516.855790713507,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+373,25_0_9,5.630559944167201,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+374,25_0_10,25258.89524689212,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+375,25_0_11,0.1240880357347675,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+376,25_0_12,1207.571488586852,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+377,25_0_13,468.2322759164376,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2010,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+378,26_0_0,161647.01823498716,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+379,26_0_1,2459.730299704548,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+380,26_0_2,50295.69871926367,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+381,26_0_3,33.59599914196747,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+382,26_0_4,21172.95738469654,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+383,26_0_5,37417.20902188196,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+384,26_0_6,779.1859103536397,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+385,26_0_7,0.1003381017305261,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+386,26_0_8,2466.425415994822,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+387,26_0_9,9.689157288913444,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+388,26_0_10,25414.834305084754,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+389,26_0_11,0.1615377464891621,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+390,26_0_12,888.0209518077409,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+391,26_0_13,763.4189086749511,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2011,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+392,27_0_0,160461.71261695365,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+393,27_0_1,2779.677739650594,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+394,27_0_2,49130.128210456416,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+395,27_0_3,32.373864861957095,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+396,27_0_4,21277.794541304396,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+397,27_0_5,39202.7315478632,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+398,27_0_6,779.7148481735933,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+399,27_0_7,0.0420622238817402,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+400,27_0_8,2494.977763951557,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+401,27_0_9,38.80605883337618,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+402,27_0_10,25562.92320008926,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+403,27_0_11,1.3175963158715376,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+404,27_0_12,0.0119521420288085,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+405,27_0_13,1122.8009981835758,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+406,27_0_14,463.0331837268419,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2012,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+407,28_0_0,158513.1750865706,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+408,28_0_1,2072.158757309478,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+409,28_0_2,48381.4933496291,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+410,28_0_3,63.04608098920813,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+411,28_0_4,21469.791495913327,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+412,28_0_5,42263.3199806303,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+413,28_0_6,778.1844494820958,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+414,28_0_7,0.0681754095992742,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+415,28_0_8,2565.765792320401,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+416,28_0_9,45.42031530585057,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+417,28_0_10,25318.98527618821,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+418,28_0_11,1.3217449288918868,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+419,28_0_12,1423.4661293760587,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+420,28_0_13,451.84955067582194,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2013,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+421,29_0_0,156992.03560127274,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+422,29_0_1,2396.34297294096,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+423,29_0_2,47865.449078329766,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+424,29_0_3,80.96134768141862,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+425,29_0_4,21507.476285544653,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+426,29_0_5,44087.36508058967,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+427,29_0_6,776.2537010030026,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+428,29_0_7,0.0259312433284983,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+429,29_0_8,2563.628274451996,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+430,29_0_9,53.44265647134747,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+431,29_0_10,25194.43918609339,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+432,29_0_11,1.2417593457225171,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+433,29_0_12,1236.2577617429529,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+434,29_0_13,593.1265480172518,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2014,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+435,30_0_0,151611.65235546284,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+436,30_0_1,2455.478284276754,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+437,30_0_2,48363.52319796652,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+438,30_0_3,128.26553347810423,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+439,30_0_4,20991.38074384597,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+440,30_0_5,48320.0181337538,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+441,30_0_6,774.9307133791126,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+442,30_0_7,0.1621329794182273,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+443,30_0_8,2658.9415322841337,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+444,30_0_9,36.770256063922645,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+445,30_0_10,24815.37824669882,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+446,30_0_11,1.3707180743563798,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+447,30_0_12,2277.356775587212,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+448,30_0_13,912.817560877812,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2015,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+449,31_0_0,148229.03911864114,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+450,31_0_1,2232.111891154782,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+451,31_0_2,49069.3191508274,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+452,31_0_3,142.88686543937925,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+453,31_0_4,20516.7106819389,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+454,31_0_5,50876.00104123008,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+455,31_0_6,772.7647506707955,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+456,31_0_7,0.5364561937567023,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+457,31_0_8,2739.366790020863,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+458,31_0_9,39.57427136154227,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+459,31_0_10,24754.27258138492,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+460,31_0_11,0.9593729411230936,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+461,31_0_12,2638.253113135728,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+462,31_0_13,1336.250099789445,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2016,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+463,32_0_0,145909.96471650252,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+464,32_0_1,2441.213711920052,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+465,32_0_2,49020.09197944994,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+466,32_0_3,159.53820049026902,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+467,32_0_4,20222.98459978164,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+468,32_0_5,52879.73551421245,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+469,32_0_6,771.7756732547017,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+470,32_0_7,0.0241068935360179,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+471,32_0_8,2759.6941473555007,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+472,32_0_9,33.719986219374725,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+473,32_0_10,25119.98473557028,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+474,32_0_11,1.4270933295213846,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+475,32_0_12,3097.9013376468783,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+476,32_0_13,929.9903821003109,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2017,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+477,33_0_0,144273.8068859862,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+478,33_0_1,2342.501233260313,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+479,33_0_2,49171.63000412862,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+480,33_0_3,179.9645176816793,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+481,33_0_4,20363.68958578294,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+482,33_0_5,54331.64553297771,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+483,33_0_6,770.3245738785113,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+484,33_0_7,0.0166855581002029,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+485,33_0_8,2804.519325604124,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+486,33_0_9,20.71607497842808,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+487,33_0_10,24579.01727988184,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+488,33_0_11,1.347532275476791,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+489,33_0_12,3045.8581168570395,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+490,33_0_13,1463.0088358792125,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2018,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+491,34_0_0,141871.01600222316,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+492,34_0_1,2211.831413432189,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+493,34_0_2,48890.81668722359,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+494,34_0_3,183.50716671937707,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+495,34_0_4,19745.975428107464,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+496,34_0_5,57474.9795526466,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+497,34_0_6,770.5377432117301,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+498,34_0_7,0.7441339615591027,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+499,34_0_8,2807.2088451856616,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+500,34_0_9,30.383993392014712,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+501,34_0_10,24717.30251783656,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+502,34_0_11,2.124772581662168,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+503,34_0_12,3310.1206906179127,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+504,34_0_13,1331.49723759409,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2019,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+505,35_0_0,138279.8740023328,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+506,35_0_1,2187.907728046975,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+507,35_0_2,50578.90815134039,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+508,35_0_3,185.95921051785604,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+509,35_0_4,19308.42296749612,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+510,35_0_5,58452.22455081691,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+511,35_0_6,773.9223707432338,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+512,35_0_7,0.3530396672751038,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+513,35_0_8,2643.11330073334,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+514,35_0_9,24.284571369544217,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+515,35_0_10,24994.67928994674,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+516,35_0_11,3.299685677682195,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+517,35_0_12,0.0223083201904296,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+518,35_0_13,4211.798079948984,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+519,35_0_14,1703.276927779228,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2020,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+520,36_0_0,136576.32101518972,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+521,36_0_1,2156.958311052364,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+522,36_0_2,49387.16555943276,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+523,36_0_3,233.7472181169988,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+524,36_0_4,19621.53064408713,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+525,36_0_5,60308.37710159164,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+526,36_0_6,775.7468114492976,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+527,36_0_7,0.0475436978034524,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+528,36_0_8,2552.154086622062,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+529,36_0_9,25.796388162021803,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+530,36_0_10,24704.183443595222,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+531,36_0_11,3.16561262998308,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+532,36_0_12,0.0733020423583984,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+533,36_0_13,5584.244787848667,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+534,36_0_14,1418.5343592188444,58,Cultivos Multiples,0.0,col5-v2-par-level_1-FINAL,2021,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+535,37_0_0,134624.5649282444,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+536,37_0_1,2147.5905634093083,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+537,37_0_2,50406.32045817423,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+538,37_0_3,279.5518537129982,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+539,37_0_4,20139.76450514351,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+540,37_0_5,61136.60844815431,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+541,37_0_6,777.2017257961763,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+542,37_0_7,0.1264910980559704,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+543,37_0_8,2562.555440124744,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+544,37_0_9,36.242136277531976,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+545,37_0_10,24191.967425525825,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+546,37_0_11,0.9435563042243508,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+547,37_0_12,0.0031872353515625,45,Leñosas Dispersas,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+548,37_0_13,7044.6054655357375,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2022,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+549,38_0_0,130250.89809775737,3,Leñosas Cerradas,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+550,38_0_1,2153.9618435134034,4,Leñosas Abiertas,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+551,38_0_2,52547.5663102474,6,Leñosas Inundables,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+552,38_0_3,344.89263204938754,9,Leñosas Cultivadas,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+553,38_0_4,20898.260412914697,11,Pastizal Inundable,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+554,38_0_5,60497.03856731189,15,Pasturas,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+555,38_0_6,777.6436245462759,24,Infraestructura Urbana,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+556,38_0_7,0.0429579459611481,25,Otras Areas No Vegetadas,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+557,38_0_8,2635.203222055666,26,Cuerpo de agua,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+558,38_0_9,32.49399308348148,42,Pastizal Abierto,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+559,38_0_10,23988.760466978685,43,Pastizal Cerrado,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+560,38_0_11,0.9244328958991544,44,Pastizal Disperso,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay
+561,38_0_12,9220.359623436783,57,Cultivos Simples,0.0,col5-v2-par-level_1-FINAL,2023,"{""type"":""Point"",""coordinates"":[0.0,0.0]}",CHACO,Paraguay

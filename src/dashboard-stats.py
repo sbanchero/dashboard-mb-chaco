@@ -30,21 +30,22 @@ from os.path import basename
 
 files_csv = {
 	"Argentina": {
-		"Level-1": "Areas-cover-col5-v2-arg-level_1-FINAL.csv",
-		"Level-2": "Areas-cover-col5-v2-arg-level_2-FINAL.csv",
-		"Level-3": "Areas-cover-col5-v2-arg-level_3-FINAL.csv",
+		"LEVEL_1": "Areas-cover-col5-v2-arg-level_1-FINAL_join.csv",
+		"LEVEL_2": "Areas-cover-col5-v2-arg-level_2-FINAL_join.csv",
+		"LEVEL_3": "Areas-cover-col5-v2-arg-level_3-FINAL_join.csv",
 	},
 	"Bolivia": {
-		"Level-1": "Areas-cover-col5-v2-bol-level_1-FINAL.csv",
-		"Level-2": "Areas-cover-col5-v2-bol-level_2-FINAL.csv",
-		"Level-3": "Areas-cover-col5-v2-bol-level_3-FINAL.csv",
+		"LEVEL_1": "Areas-cover-col5-v2-bol-level_1-FINAL_join.csv",
+		"LEVEL_2": "Areas-cover-col5-v2-bol-level_2-FINAL_join.csv",
+		"LEVEL_3": "Areas-cover-col5-v2-bol-level_3-FINAL_join.csv",
 	},
 	"Paraguay": {
-		"Level-1": "Areas-cover-col5-v2-par-level_1-FINAL.csv",
-		"Level-2": "Areas-cover-col5-v2-par-level_2-FINAL.csv",
-		"Level-3": "Areas-cover-col5-v2-par-level_3-FINAL.csv",
+		"LEVEL_1": "Areas-cover-col5-v2-par-level_1-FINAL_join.csv",
+		"LEVEL_2": "Areas-cover-col5-v2-par-level_2-FINAL_join.csv",
+		"LEVEL_3": "Areas-cover-col5-v2-par-level_3-FINAL_join.csv",
 	}
 }
+
 
 data_dir = "./data/"
 
@@ -69,7 +70,7 @@ with st.sidebar:
 		options=levels,
 		placeholder="Seleccione una opción ..."
 	)
-
+	
 	df = pd.read_csv(f"{data_dir}{files_csv[opt_pais][opt_level]}")
 	
 	class_name = df["class_name"].unique().tolist()
@@ -78,10 +79,17 @@ with st.sidebar:
 		label="Clases",
 		options=class_name,
 		placeholder="Seleccione una opción ...",
-		# ~ default=None
 	)
 
-dfg = df[df["class_name"].isin(mult_opt_class)].groupby(['class_name', "year"], as_index=False)['area'].sum()
+	levels = df[opt_level].unique().tolist()
+	
+	mult_opt_levels = st.multiselect(
+		label="Levels",
+		options=levels,
+		placeholder="Seleccione una opción ...",
+	)
+
+dfg = df[df["class_name"].isin(mult_opt_class) & df[opt_level].isin(mult_opt_levels)].groupby(['class_name', "year", opt_level], as_index=False)['area'].sum()
 dfg
 
 st.bar_chart(dfg, x="year", y="area", color="class_name", stack=False)
